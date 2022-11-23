@@ -1,0 +1,15 @@
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\bin\Debug\net6.0\working in groups_2.exe
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\bin\Debug\net6.0\working in groups_2.deps.json
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\bin\Debug\net6.0\working in groups_2.runtimeconfig.json
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\bin\Debug\net6.0\working in groups_2.dll
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\bin\Debug\net6.0\working in groups_2.pdb
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.csproj.AssemblyReference.cache
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.AssemblyInfoInputs.cache
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.AssemblyInfo.cs
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.csproj.CoreCompileInputs.cache
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.dll
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\refint\working in groups_2.dll
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.pdb
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\working in groups_2.genruntimeconfig.cache
+C:\Users\User01\Desktop\Weekend_3\working in groups_2\obj\Debug\net6.0\ref\working in groups_2.dll
